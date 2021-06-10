@@ -1,0 +1,119 @@
+html,
+body,
+#root {
+  height: 100%;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.question{
+  margin: 25px  auto;
+  /* width: 300px; */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+  margin-top: 15%;
+}
+
+.App .card {
+  margin-top: 10% !important;
+  max-width: 800px;
+  width: 125% !important;
+  text-align: center;
+}
+
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 10px;
+  font-size: 20px;
+}
+
+label.radio+.radio {
+  margin-left: 0;
+  
+}
+
+input{
+       border-radius: 50%;
+}
+
+label.radio input {
+  margin-right: 10px;
+  font-size: larger !important;
+}
+
+
+.start{
+  background-color: aqua !important;
+  color: #f3bb4b;
+
+
+}
+
+
+.selection{
+
+  margin:6% auto;
+  width: 800px;
+  text-align: center;
+
+}
+
+/* .card-content{
+  background-color: rgb(179, 106, 216) !important;
+} */
+
+.selectit{
+  margin-top: 10% !important;
+}
+
+/* Buttons */
+
+.buttons{
+    
+  margin-left: 55%;
+}
+
+.btnss{
+    
+  margin-left: 45%;
+}
+
+
+.btn-outline-warning{
+ 
+  margin-right: 4%;
+  padding: 8px 72px !important;
+  border-radius: 140px !important;
+  color: rgb(92, 87, 87) !important;
+  font-weight: bolder !important;
+  border: 2px solid #f3bb4b !important ;
+
+}
+
+.btn-outline-warning:hover{
+  background-color: #f3bb4b;
+
+}
+
+.btn-warning.next{
+  text-decoration: none;
+  padding: 8px 72px !important;
+  border-radius: 100px !important;
+  background-color: #f3bb4b !important;
+  color: rgb(92, 87, 87) !important;
+  font-weight: bolder !important;
+
+
+}
+
+a{
+  color: aquamarine !important;
+}
+
+/* end of Buttons */

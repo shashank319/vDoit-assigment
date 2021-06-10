@@ -1,0 +1,24 @@
+{
+    "data": [
+      {
+        "question": "What gender groups(s) are needed for this Division?",
+        "choices": ["Men","Womens","Co-ed"],
+        "id":"1"
+      
+      },
+      {
+        "question": "What is the age range needed for this Division ?",
+        "choices": ["26-U","40-U","50-U","60-U","70-U"]
+      
+      },
+      {
+        "question": "What are your relevant skills mentioned here?",
+        "choices": ["A", "AA", "AAA", "Novice","Masters"]   
+      },
+      {
+        "question": "Choose your team here out from below YO..! ?",
+        "choices": ["Sunriser Hyderabad", "Barcelona", "Manchestar club", "Mumbai indians"]
+      }
+
+    ]
+  }
