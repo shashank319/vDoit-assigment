@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vDoit-assigment/static/css/main.187302ad.chunk.css",
+    "main.js": "/vDoit-assigment/static/js/main.d75c14f8.chunk.js",
+    "main.js.map": "/vDoit-assigment/static/js/main.d75c14f8.chunk.js.map",
+    "runtime-main.js": "/vDoit-assigment/static/js/runtime-main.d7189011.js",
+    "runtime-main.js.map": "/vDoit-assigment/static/js/runtime-main.d7189011.js.map",
+    "static/css/2.f24229d0.chunk.css": "/vDoit-assigment/static/css/2.f24229d0.chunk.css",
+    "static/js/2.bfde9e74.chunk.js": "/vDoit-assigment/static/js/2.bfde9e74.chunk.js",
+    "static/js/2.bfde9e74.chunk.js.map": "/vDoit-assigment/static/js/2.bfde9e74.chunk.js.map",
+    "static/js/3.2a52a1f9.chunk.js": "/vDoit-assigment/static/js/3.2a52a1f9.chunk.js",
+    "static/js/3.2a52a1f9.chunk.js.map": "/vDoit-assigment/static/js/3.2a52a1f9.chunk.js.map",
+    "index.html": "/vDoit-assigment/index.html",
+    "static/css/2.f24229d0.chunk.css.map": "/vDoit-assigment/static/css/2.f24229d0.chunk.css.map",
+    "static/css/main.187302ad.chunk.css.map": "/vDoit-assigment/static/css/main.187302ad.chunk.css.map",
+    "static/js/2.bfde9e74.chunk.js.LICENSE.txt": "/vDoit-assigment/static/js/2.bfde9e74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7189011.js",
+    "static/css/2.f24229d0.chunk.css",
+    "static/js/2.bfde9e74.chunk.js",
+    "static/css/main.187302ad.chunk.css",
+    "static/js/main.d75c14f8.chunk.js"
+  ]
+}
